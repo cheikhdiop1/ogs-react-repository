@@ -1,0 +1,9 @@
+/* HomePage.module.css */
+.homepageBackground {
+    background-image: url('../Assets/images/HomePage-Background.png'); 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center center; 
+    background-attachment: fixed;
+    height: 100%;
+}
